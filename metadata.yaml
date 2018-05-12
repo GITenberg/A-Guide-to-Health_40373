@@ -21,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3490
     wikipedia: http://en.wikipedia.org/wiki/Mahatma_Gandhi
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40373#A-Guide-to-Health
 gutenberg_issued: '2012-07-30'
 gutenberg_type: Text
 identifiers:
